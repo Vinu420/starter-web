@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding new lines from Master.
+This repository is for showing how Git and GitHub work. Adding new lines from Master. Adding more changes from myfeature branch
 
 ## Purpose
 
