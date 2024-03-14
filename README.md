@@ -14,4 +14,4 @@ This section is to know how to see the changes.
 This section says what is the requirement
 
 ##### New section
-This is new section...
+This is new section... All copyrights are reservered
